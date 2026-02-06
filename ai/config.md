@@ -214,4 +214,4 @@ git apply --reverse backups/code/pre-task-001.diff
 
 ---
 
-**最后更新**：2024-XX-XX
+**最后更新**：2026-02-06
